@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.63c89c9d.chunk.css",
+    "main.js": "/static/js/main.5c0c38db.chunk.js",
+    "main.js.map": "/static/js/main.5c0c38db.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9ed2cc7e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9ed2cc7e.js.map",
+    "static/js/2.1de48874.chunk.js": "/static/js/2.1de48874.chunk.js",
+    "static/js/2.1de48874.chunk.js.map": "/static/js/2.1de48874.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.63c89c9d.chunk.css.map": "/static/css/main.63c89c9d.chunk.css.map",
+    "static/js/2.1de48874.chunk.js.LICENSE.txt": "/static/js/2.1de48874.chunk.js.LICENSE.txt",
+    "static/media/kazan.a714cc5d.jpg": "/static/media/kazan.a714cc5d.jpg",
+    "static/media/wedding.ec378b1a.jpg": "/static/media/wedding.ec378b1a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ed2cc7e.js",
+    "static/js/2.1de48874.chunk.js",
+    "static/css/main.63c89c9d.chunk.css",
+    "static/js/main.5c0c38db.chunk.js"
+  ]
+}
