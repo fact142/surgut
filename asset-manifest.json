@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/surgut/static/css/main.63c89c9d.chunk.css",
-    "main.js": "/surgut/static/js/main.5c0c38db.chunk.js",
-    "main.js.map": "/surgut/static/js/main.5c0c38db.chunk.js.map",
+    "main.css": "/surgut/static/css/main.13b6a035.chunk.css",
+    "main.js": "/surgut/static/js/main.e28937b2.chunk.js",
+    "main.js.map": "/surgut/static/js/main.e28937b2.chunk.js.map",
     "runtime-main.js": "/surgut/static/js/runtime-main.5eb872d3.js",
     "runtime-main.js.map": "/surgut/static/js/runtime-main.5eb872d3.js.map",
     "static/js/2.1de48874.chunk.js": "/surgut/static/js/2.1de48874.chunk.js",
     "static/js/2.1de48874.chunk.js.map": "/surgut/static/js/2.1de48874.chunk.js.map",
     "index.html": "/surgut/index.html",
-    "static/css/main.63c89c9d.chunk.css.map": "/surgut/static/css/main.63c89c9d.chunk.css.map",
+    "static/css/main.13b6a035.chunk.css.map": "/surgut/static/css/main.13b6a035.chunk.css.map",
     "static/js/2.1de48874.chunk.js.LICENSE.txt": "/surgut/static/js/2.1de48874.chunk.js.LICENSE.txt",
     "static/media/kazan.a714cc5d.jpg": "/surgut/static/media/kazan.a714cc5d.jpg",
     "static/media/wedding.ec378b1a.jpg": "/surgut/static/media/wedding.ec378b1a.jpg"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.5eb872d3.js",
     "static/js/2.1de48874.chunk.js",
-    "static/css/main.63c89c9d.chunk.css",
-    "static/js/main.5c0c38db.chunk.js"
+    "static/css/main.13b6a035.chunk.css",
+    "static/js/main.e28937b2.chunk.js"
   ]
 }
